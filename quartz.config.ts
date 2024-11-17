@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "votaquangnhat.github.io",
     ignorePatterns: ["media", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
