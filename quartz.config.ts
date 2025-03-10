@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "votaquangnhat.github.io",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "_templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: true,
     theme: {
