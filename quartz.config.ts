@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "vi-VN",
+    locale: "en-US",
     baseUrl: "votaquangnhat.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
