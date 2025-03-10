@@ -1,6 +1,6 @@
 ---
 title: k-nearest neighbors and Curse of Dimensionality
-draft: true
+draft: false
 date: 2024-06-09 13:52:23 +0700
 tags:
   - machine_learning
