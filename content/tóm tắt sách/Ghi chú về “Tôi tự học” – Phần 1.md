@@ -3,6 +3,7 @@ title: Ghi chú về “Tôi tự học” – Phần 1
 draft: false
 date: 2024-09-18 00:08:29 +0700
 tags:
+  - book
 ---
 Với tôi, để có kiến thức vững chắc, trình độ văn hoá tốt, tự học là yếu tố quan trọng nhất. Nhưng tự học như nào cho đúng thì tôi vẫn hoài băn khoăn. Tác phẩm “Tôi tự học” của tác giả Thu Giang đã giúp tôi giải đáp trăn trở đó, đồng thời cũng mở ra cho tôi bao nhiêu là vấn đề mới về việc học. Quyển sách này đánh dấu một sự phát triển của tôi trên con đường theo đuổi học thức. Tôi coi nó là sách gối đầu giường, là chiếc la bàn của mình khi đứng giữa đại dương học vấn mênh mông, bởi mỗi lần đọc, tôi đều được gợi ra cho điều gì đó mới mẻ. Nay, tôi viết lại những ghi chú của mình về tác phẩm này.
 

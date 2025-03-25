@@ -3,6 +3,7 @@ title: Tự sự về việc học
 draft: false
 date: 2024-09-16 00:28:26 +0700
 tags:
+  - thought
 ---
 Từ bé, nhờ sự giáo dục của bố mẹ, tôi đã được rèn cho tính chăm học, tự tìm tòi. Thật là may mắn biết bao. Tuy nhiên, tôi đã luôn trăn trở về lý do để bản thân làm việc ấy.
 

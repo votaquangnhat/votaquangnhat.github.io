@@ -4,7 +4,6 @@ draft: false
 date: 2024-06-09 13:52:23 +0700
 tags:
   - machine_learning
-  - kNN
 description: Bài viết này giới thiệu 2 chủ đề. Trước tiên là thuật toán k-nearest neighbors và tập trung chủ yếu về classification. Ngoài ra còn dẫn dắt nói thêm về vấn đề curse of dimensionality
 ---
 ## 1. k-nearest neighbors algorithms

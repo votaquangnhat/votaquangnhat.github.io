@@ -4,7 +4,6 @@ draft: false
 date: 2024-06-14 10:02:08 +0700
 tags:
   - machine_learning
-  - Perceptron
 description: Bài viết giới thiệu thuật toán Perceptron và từng bước xây dựng thuật toán. Ngoài ra, bài viết còn có các chứng minh một số tính chất liên quan.
 ---
 ## 1. Giới thiệu về Perceptron

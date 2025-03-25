@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "vtqn 🪴",
+    pageTitle: "Le reflet🪴",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -30,26 +30,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#fdf6f0", // Warm off-white background
+          lightgray: "#e3cbb2", // Soft beige for borders
+          gray: "#c89f84", // Warm gray for graph links, heavier borders
+          darkgray: "#7d4f40", // Rich brown for body text
+          dark: "#4a2f27", // Deep brown for header text and icons
+          secondary: "#b65d3a", // Warm terracotta for links and current graph node
+          tertiary: "#e09664", // Soft warm orange for hover states and visited graph nodes
+          highlight: "rgba(255, 163, 102, 0.2)", // Light warm orange for highlights
+          textHighlight: "#ffcc8888", // Warm yellow-orange for markdown highlighted text background
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#2b1b14", // Dark warm brown background
+          lightgray: "#5a3e2b", // Deep warm taupe for borders
+          gray: "#9a6b54", // Muted warm brown for graph links, heavier borders
+          darkgray: "#e3c4a8", // Soft warm beige for body text
+          dark: "#f2e1ce", // Light cream for header text and icons
+          secondary: "#d98566", // Warm reddish-orange for links and current graph node
+          tertiary: "#e5a06b", // Light peachy orange for hover states and visited graph nodes
+          highlight: "rgba(224, 140, 90, 0.2)", // Warm peach for internal link background, highlighted text, highlighted code
+          textHighlight: "#f4b86088", // Warm golden tone for markdown highlighted text background
         },
       },
     },

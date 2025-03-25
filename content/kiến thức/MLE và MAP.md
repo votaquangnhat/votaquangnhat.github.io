@@ -4,9 +4,6 @@ draft: false
 date: 2024-06-23 17:55:10 +0700
 tags:
   - machine_learning
-  - bayesian
-  - MLE
-  - MAP
 description: "Bài viết này giới thiệu ngắn gọn về hai trường phái chính thông suy diễn thống kê: tần suất và Bayesian, sau đó sẽ đi vào chi tiết về MLE và MAP, đại diện cho ước lượng điểm của mỗi trường phái."
 ---
 ## 0. Phân biệt lý thuyết xác suất và suy luận thống kê

@@ -3,6 +3,7 @@ title: Ghi chú về “Tôi tự học” – Phần 2
 draft: false
 date: 2024-10-08 00:22:04 +0700
 tags:
+  - book
 ---
 Tôi xin tiếp tục viết lại những ghi chú của mình về tác phẩm “Tôi tự học”. [[Ghi chú về “Tôi tự học” – Phần 1|Đây]] là phần trước.
 

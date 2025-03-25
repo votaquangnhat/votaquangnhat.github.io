@@ -2,7 +2,8 @@
 title: Về phương pháp học ngoại ngữ
 draft: false
 date: 2024-10-28 00:29:19 +0700
-tags: []
+tags:
+  - thought
 ---
 ## 1. Nói chung về việc học ngoại ngữ
 

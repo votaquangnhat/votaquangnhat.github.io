@@ -4,8 +4,6 @@ draft: false
 date: 2024-06-25 11:52:00 +0700
 tags:
   - machine_learning
-  - naive_bayes_classifier
-  - bayes_optimal_classifier
 description: Bài viết trình bày một cách chi tiết cách thành lập Naive Bayes Classifier, một cách để xấp xỉ Bayes (Optimal) Classifier.
 ---
 ## 1. Bayes (optimal) classifier
