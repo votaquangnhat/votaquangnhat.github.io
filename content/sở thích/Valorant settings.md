@@ -1,5 +1,5 @@
 ---
-title: Valorant cheat sheet
+title: Valorant settings
 draft: false
 date: 2025-03-23 15:48:45 +0700
 tags:
