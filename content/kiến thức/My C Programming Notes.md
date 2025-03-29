@@ -14,7 +14,7 @@ Like most programming languages, C includes fundamental features such as:
 - strings
 - file-handling
 
-These are some hightlighted concepts of C:
+When working with C, it's important to understand the following key concepts:
 - pointers
 - passing arrays to function
 - struct

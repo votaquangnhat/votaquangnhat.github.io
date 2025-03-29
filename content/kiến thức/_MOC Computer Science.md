@@ -14,7 +14,7 @@ Some of my posts are written in Vietnamese, but most will be in English since I'
 
 ## Programming languages
 
-1. Python
+1. [[My Python Programming Notes|Python]]
 2. [[My C Programming Notes|C]]
 
 ## DSA
