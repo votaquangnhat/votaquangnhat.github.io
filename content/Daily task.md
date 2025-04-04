@@ -10,4 +10,4 @@ date: 2025-03-24 16:21:28 +0700
 - [ ] V Benchmark practice
 - [ ] Anki
 - [ ] Học
-- [ ] Guitar: atleast 30'
+- [x] Guitar: atleast 30'

@@ -53,3 +53,12 @@ Với thuật toán thu được từ thuật toán ML, ta có hai vấn đề c
 
 1. Overfitting: Thuật toán cho ra kết quả (rất) tốt với data cho vào, nhưng lại cho kết quả rất tệ khi ta cho data mới vào. Thầy Khoát gọi là “học vẹt”. Nguyên nhân xảy ra thường là do model quá phức tạp, training data không đủ lớn hoặc đủ tốt. Có thể khắc phục được bằng cách giải quyết các nguyên nhân đã nêu, hoặc dùng regularization.
 2. Underfitting: Thuật toán cho ra kết quả tệ, kể cả data đầu vào và data mới. Thầy Khoát gọi là “học không đến nơi đến chốn”. Việc này xảy ra thường tại model quá đơn giản.
+
+## Toán cho Machine Learning
+
+Machine Learning được xây dựng dựa trên toán học. Vì thế, có một nền tảng toán học vững chắc là cần thiết để hiểu sâu về ML. Nhưng vì lý do lịch sử, Machine Learning thường được dạy bởi viện/trường CNTT và dành cho sinh viên CS. May mắn thay, HUST rất trọng toán, nên mình không gặp nhiều khó khăn khi học ML. Dưới đây là một số nhánh của toán học làm nên nền tảng cho ML.
+
+1. Đại số tuyến tính
+2. Giải tích
+3. Xác suất và thống kê
+4. Tối ưu
