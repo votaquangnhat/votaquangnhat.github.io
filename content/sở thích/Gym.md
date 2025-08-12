@@ -20,7 +20,7 @@ tags:
 Day 1: 
 - bench press 2sets, 5-8reps + 1 backoff set 8-12 reps
 - incline bench press 3 sets 8-12 reps
-- dumbbel flies 3 sets 12-20 reps
+- pec deck 3 sets 12-20 reps
 - overhead press 3 sets  12-15 reps
 - lateral raise 3 sets 12-20 reps
 - cable pushdown 3 sets 12-20 reps
@@ -47,7 +47,7 @@ Day 4:
 - lateral raise 3 sets 12-20 reps
 - bench press 3 set 12-15 reps
 - incline bench press 3 sets 12-15 reps
-- cable flies 3 sets 12-20 reps
+- pec deck 3 sets 12-20 reps
 - cable pushdown 3 sets 12-20 reps
 - skullcrushers 3 sets 12-20 reps
 
