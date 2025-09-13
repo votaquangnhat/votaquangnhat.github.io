@@ -17,9 +17,8 @@ Valorant profile:
 
 Crosshair: tenz crosshair with yellow
 
-sens: 0.23
+sens: 0.2
 DPI: 1600
-Scope: 1.1
 
 ### Game Settings
 
