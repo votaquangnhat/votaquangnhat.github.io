@@ -1,201 +1,112 @@
-# 📘 150 Bài tập rèn luyện Đại số (Bộ mới, chỉnh sửa)  
+# 100 bài tính giới hạn
 
----
+1. $\lim_{n\to+\infty}\frac{n^2+n+1}{2n^2+1}$
 
-## A. 7 Hằng đẳng thức đáng nhớ (50 bài)  
+2. $\lim_{n\to+\infty}\big(\sqrt{n^2+2n}-n\big)$
+3. $\lim_{n\to+\infty}\frac{3n^2- n+5}{4n^2+7}$
+4. $\lim_{n\to+\infty}\big(\sqrt{n^2+4n+1}-n\big)$
+5. $\lim_{n\to+\infty}\frac{5n^2+2n-3}{5n^2-n+2}$
+6. $\lim_{n\to+\infty}\big(\sqrt{n^2+n}-n\big)$
+7. $\lim_{n\to+\infty}\frac{2n^2+7n+1}{n^2+3}$
+8. $\lim_{n\to+\infty}\big(\sqrt{n^2+6n+9}-n\big)$
+9. $\lim_{n\to+\infty}\frac{4n^2-3n+2}{2n^2+5}$
+10. $\lim_{n\to+\infty}\big(\sqrt{n^2+8n}-n\big)$
 
-### 1. $ (a+b)^2 = a^2 + 2ab + b^2 $ (10 bài)  
-1. $ (x+4)^2 $  
-2. $ (3x+2)^2 $  
-3. $ (2a+5b)^2 $  
-4. $ (y+6)^2 - (y^2+12y+36) $  
-5. $ (m+n)^2 - (m-n)^2 $  
-6. $ (3p+q)^2 - (3p-q)^2 $  
-7. $ (4x+3)^2 $  
-8. $ (a+3b)^2 $  
-9. $ (u+v)^2 - (u-v)^2 $  
-10. $ (x+2)^2 + (x-2)^2 $  
+11. $\lim_{n\to+\infty}\frac{n^2+5n+4}{3n^2+1}$
+12. $\lim_{n\to+\infty}\big(\sqrt{n^2+10n+25}-n\big)$
+13. $\lim_{n\to+\infty}\frac{6n^2- n+8}{7n^2+2}$
+14. $\lim_{n\to+\infty}\big(\sqrt{n^2+3n+1}-n\big)$
+15. $\lim_{n\to+\infty}\frac{2n^2+3n+7}{4n^2+9}$
+16. $\lim_{n\to+\infty}\big(\sqrt{n^2+12n}-n\big)$
+17. $\lim_{n\to+\infty}\frac{5n^2+9n+2}{5n^2+1}$
+18. $\lim_{n\to+\infty}\big(\sqrt{n^2- n+4}-n\big)$
+19. $\lim_{n\to+\infty}\frac{3n^2+4n+6}{6n^2+5}$
+20. $\lim_{n\to+\infty}\big(\sqrt{n^2+2n+1}-n\big)$
 
-### 2. $ (a-b)^2 = a^2 - 2ab + b^2 $ (10 bài)  
-11. $ (x-5)^2 $  
-12. $ (4x-3)^2 $  
-13. $ (3a-4b)^2 $  
-14. $ (p-q)^2 - (q-p)^2 $  
-15. $ (m-n)^2 + (m+n)^2 $  
-16. $ (6y-5)^2 $  
-17. $ (x-2)^2 + (x+2)^2 $  
-18. $ (a-3b)^2 + (a+3b)^2 $  
-19. $ (t-4)^2 $  
-20. $ (u-2v)^2 $  
+21. $\lim_{n\to+\infty}\frac{7n^2+ n+3}{3n^2+8}$
+22. $\lim_{n\to+\infty}\big(\sqrt{n^2+5n+6}-n\big)$
+23. $\lim_{n\to+\infty}\frac{4n^2-5n+10}{4n^2+7}$
+24. $\lim_{n\to+\infty}\big(\sqrt{n^2+7n}-n\big)$
+25. $\lim_{n\to+\infty}\frac{n^2+2n+9}{2n^2+11}$
+26. $\lim_{n\to+\infty}\big(\sqrt{n^2+14n+49}-n\big)$
+27. $\lim_{n\to+\infty}\frac{8n^2+3n-1}{9n^2+4}$
+28. $\lim_{n\to+\infty}\big(\sqrt{n^2+9n+2}-n\big)$
+29. $\lim_{n\to+\infty}\frac{2n^2- n+5}{n^2+6}$
+30. $\lim_{n\to+\infty}\big(\sqrt{n^2+4n+4}-n\big)$
 
-### 3. $ (a+b)(a-b) = a^2 - b^2 $ (8 bài)  
-21. $ (x+6)(x-6) $  
-22. $ (3x+2)(3x-2) $  
-23. $ (m+n)(m-n) $  
-24. $ (4y+5)(4y-5) $  
-25. $ (x+2)(x-2) $  
-26. $ (p+q)(p-q) $  
-27. $ (2a+3b)(2a-3b) $  
-28. $ (7a+1)(7a-1) $  
+31. $\lim_{n\to+\infty}\frac{3n^2+11n+1}{5n^2+2}$
+32. $\lim_{n\to+\infty}\big(\sqrt{n^2+16n}-n\big)$
+33. $\lim_{n\to+\infty}\frac{6n^2+5n+4}{2n^2+3}$
+34. $\lim_{n\to+\infty}\big(\sqrt{n^2+11n+30}-n\big)$
+35. $\lim_{n\to+\infty}\frac{n^2+7n-2}{3n^2+1}$
+36. $\lim_{n\to+\infty}\big(\sqrt{n^2+20n}-n\big)$
+37. $\lim_{n\to+\infty}\frac{5n^2-2n+7}{5n^2+3}$
+38. $\lim_{n\to+\infty}\big(\sqrt{n^2+13n+1}-n\big)$
+39. $\lim_{n\to+\infty}\frac{4n^2+n+9}{6n^2+5}$
+40. $\lim_{n\to+\infty}\big(\sqrt{n^2+6n+1}-n\big)$
 
-### 4. $ (a+b)^3 = a^3+3a^2b+3ab^2+b^3 $ (8 bài)  
-29. $ (x+2)^3 $  
-30. $ (3x+1)^3 $  
-31. $ (p+q)^3 $  
-32. $ (a+b)^3 - (a^3+b^3) $  
-33. $ (y+4)^3 $  
-34. $ (m+2n)^3 $  
-35. $ (x+y)^3 - (x-y)^3 $  
-36. $ (3a+b)^3 $  
+41. $\lim_{n\to+\infty}\frac{7n^2+2n+8}{8n^2+1}$
+42. $\lim_{n\to+\infty}\big(\sqrt{n^2+18n+81}-n\big)$
+43. $\lim_{n\to+\infty}\frac{2n^2+9n+3}{4n^2+2}$
+44. $\lim_{n\to+\infty}\big(\sqrt{n^2+15n}-n\big)$
+45. $\lim_{n\to+\infty}\frac{3n^2-4n+6}{3n^2+9}$
+46. $\lim_{n\to+\infty}\big(\sqrt{n^2+1n+1}-n\big)$
+47. $\lim_{n\to+\infty}\frac{5n^2+11n+5}{7n^2+6}$
+48. $\lim_{n\to+\infty}\big(\sqrt{n^2+22n}-n\big)$
+49. $\lim_{n\to+\infty}\frac{n^2+3n+2}{n^2+5}$
+50. $\lim_{n\to+\infty}\big(\sqrt{n^2+8n+16}-n\big)$
 
-### 5. $ (a-b)^3 = a^3-3a^2b+3ab^2-b^3 $ (6 bài)  
-37. $ (x-2)^3 $  
-38. $ (3x-1)^3 $  
-39. $ (p-q)^3 $  
-40. $ (a-b)^3+(b-a)^3 $  
-41. $ (2m-n)^3 $  
-42. $ (4x-3)^3 $  
+51. $\lim_{n\to+\infty}\frac{4n^2+7n+8}{2n^2+1}$
+52. $\lim_{n\to+\infty}\big(\sqrt{n^2+24n}-n\big)$
+53. $\lim_{n\to+\infty}\frac{6n^2-3n+2}{6n^2+7}$
+54. $\lim_{n\to+\infty}\big(\sqrt{n^2+2n+9}-n\big)$
+55. $\lim_{n\to+\infty}\frac{2n^2+5n+11}{5n^2+4}$
+56. $\lim_{n\to+\infty}\big(\sqrt{n^2+28n+49}-n\big)$
+57. $\lim_{n\to+\infty}\frac{5n^2+4n-6}{4n^2+3}$
+58. $\lim_{n\to+\infty}\big(\sqrt{n^2+17n+2}-n\big)$
+59. $\lim_{n\to+\infty}\frac{3n^2+2n+1}{3n^2+2}$
+60. $\lim_{n\to+\infty}\big(\sqrt{n^2+9n+9}-n\big)$
 
-### 6. $ a^3+b^3=(a+b)(a^2-ab+b^2) $ (4 bài)  
-43. $ x^3+27 $  
-44. $ m^3+n^3 $  
-45. $ 8y^3+1 $  
-46. $ a^3+b^3 $  
+61. $\lim_{n\to+\infty}\frac{7n^2+5n+1}{4n^2+9}$
+62. $\lim_{n\to+\infty}\big(\sqrt{n^2+30n}-n\big)$
+63. $\lim_{n\to+\infty}\frac{n^2- n+7}{2n^2+5}$
+64. $\lim_{n\to+\infty}\big(\sqrt{n^2+19n+1}-n\big)$
+65. $\lim_{n\to+\infty}\frac{4n^2+9n+3}{6n^2+1}$
+66. $\lim_{n\to+\infty}\big(\sqrt{n^2+10n+25}-n\big)$
+67. $\lim_{n\to+\infty}\frac{2n^2+11n+6}{2n^2+7}$
+68. $\lim_{n\to+\infty}\big(\sqrt{n^2+12n+36}-n\big)$
+69. $\lim_{n\to+\infty}\frac{5n^2-7n+4}{5n^2+2}$
+70. $\lim_{n\to+\infty}\big(\sqrt{n^2+21n}-n\big)$
 
-### 7. $ a^3-b^3=(a-b)(a^2+ab+b^2) $ (4 bài)  
-47. $ x^3-27 $  
-48. $ m^3-n^3 $  
-49. $ 8y^3-1 $  
-50. $ a^3-b^3 $  
+71. $\lim_{n\to+\infty}\frac{3n^2+8n+5}{3n^2+4}$
+72. $\lim_{n\to+\infty}\big(\sqrt{n^2+14n+49}-n\big)$
+73. $\lim_{n\to+\infty}\frac{6n^2+2n+9}{7n^2+3}$
+74. $\lim_{n\to+\infty}\big(\sqrt{n^2+11n+4}-n\big)$
+75. $\lim_{n\to+\infty}\frac{n^2+9n+1}{4n^2+8}$
+76. $\lim_{n\to+\infty}\big(\sqrt{n^2+32n}-n\big)$
+77. $\lim_{n\to+\infty}\frac{4n^2-2n+11}{4n^2+5}$
+78. $\lim_{n\to+\infty}\big(\sqrt{n^2+13n+16}-n\big)$
+79. $\lim_{n\to+\infty}\frac{2n^2+6n+7}{5n^2+1}$
+80. $\lim_{n\to+\infty}\big(\sqrt{n^2+3n+9}-n\big)$
 
----
+81. $\lim_{n\to+\infty}\frac{5n^2+8n+2}{6n^2+9}$
+82. $\lim_{n\to+\infty}\big(\sqrt{n^2+26n}-n\big)$
+83. $\lim_{n\to+\infty}\frac{3n^2-5n+8}{3n^2+1}$
+84. $\lim_{n\to+\infty}\big(\sqrt{n^2+7n+1}-n\big)$
+85. $\lim_{n\to+\infty}\frac{7n^2+4n+5}{5n^2+6}$
+86. $\lim_{n\to+\infty}\big(\sqrt{n^2+36n+81}-n\big)$
+87. $\lim_{n\to+\infty}\frac{n^2+4n+8}{2n^2+3}$
+88. $\lim_{n\to+\infty}\big(\sqrt{n^2+15n+25}-n\big)$
+89. $\lim_{n\to+\infty}\frac{4n^2+11n+6}{4n^2+7}$
+90. $\lim_{n\to+\infty}\big(\sqrt{n^2+18n}-n\big)$
 
-## B. Biến đổi đa thức (30 bài)  
-
-### B1. Áp dụng hằng đẳng thức (10 bài)  
-51. $ (x+3)^2 - (x-3)^2 $  
-52. $ (2x-4)^2 $  
-53. $ (3x+2)(3x-2) $  
-54. $ (x+5)^2 + (x-5)^2 $  
-55. $ (x-6)^2 $  
-56. $ (3x+4)^2 - (3x-4)^2 $  
-57. $ (y+z)^2 + (y-z)^2 $  
-58. $ (4x+1)(4x-1) $  
-59. $ (x+7)^2 $  
-60. $ (m+n)^2 - (m-n)^2 $  
-
-### B2. Cộng, trừ đa thức (10 bài)  
-61. $ (x^2+4x+2) + (2x^2-3x+5) $  
-62. $ (2x^2+x-4) - (x^2-2x+3) $  
-63. $ (4x^3+3x^2-5) + (2x^3-x^2+6) $  
-64. $ (x^2+5x+6) - (3x^2+2x-1) $  
-65. $ (3x^3+2x^2-7) + (x^3+4x^2+2) $  
-66. $ (6x^2+3x+4) - (2x^2-5x+1) $  
-67. $ (3x^3+2x^2+4x-8) - (2x^3-x^2+5x-6) $  
-68. $ (5x^2+2x+7) + (4x^2-3x+2) $  
-69. $ (x^3+3x^2+2x+1) - (2x^3+4x^2-x-2) $  
-70. $ (a^2+3a+2) + (a^2-4a+1) $  
-
-### B3. Nhân đa thức (10 bài)  
-71. $ (x+1)(x+4) $  
-72. $ (3x+2)(x-5) $  
-73. $ (x+6)(x-3) $  
-74. $ (2x+5)(3x-2) $  
-75. $ (x+2)(x^2+3x+2) $  
-76. $ (3x-2)(x^2+2x+5) $  
-77. $ (x-1)(x^2+1) $  
-78. $ (2x+1)(x^2-3x+4) $  
-79. $ (x+5)(x^2-2x+3) $  
-80. $ (m+n)(m^2-mn+n^2) $  
-
----
-
-## C. Phân thức đại số (30 bài)  
-
-### C1. Rút gọn (10 bài)  
-81. $ \dfrac{x^2-16}{x-4} $  
-82. $ \dfrac{x^2+4x+4}{x+2} $  
-83. $ \dfrac{m^2-n^2}{m-n} $  
-84. $ \dfrac{x^2-6x+9}{x-3} $  
-85. $ \dfrac{(x+3)(x-3)}{x^2-9} $  
-86. $ \dfrac{x^3-27}{x-3} $  
-87. $ \dfrac{(a+b)^2-(a-b)^2}{4b} $  
-88. $ \dfrac{x^2+7x+10}{x+5} $  
-89. $ \dfrac{a^2+2ab+b^2}{a+b} $  
-90. $ \dfrac{x^2-4}{x^2+2x} $  
-
-### C2. Quy đồng (10 bài)  
-91. $ \dfrac{1}{x} + \dfrac{1}{x+2} $  
-92. $ \dfrac{3}{x+3} + \dfrac{2}{x-3} $  
-93. $ \dfrac{x}{x+2} + \dfrac{1}{x} $  
-94. $ \dfrac{a}{a+2} + \dfrac{b}{b+2} $  
-95. $ \dfrac{3}{x} - \dfrac{2}{x+2} $  
-96. $ \dfrac{1}{x-2} + \dfrac{2}{x+2} $  
-97. $ \dfrac{x+3}{x^2+3x} + \dfrac{1}{x} $  
-98. $ \dfrac{a}{a^2-b^2} + \dfrac{1}{a+b} $  
-99. $ \dfrac{1}{x^2} + \dfrac{2}{x} $  
-100. $ \dfrac{x}{x+3} + \dfrac{3}{x-3} $  
-
-### C3. Biến đổi tổng hợp (10 bài)  
-101. $ \dfrac{x}{x+2} - \dfrac{1}{x+2} $  
-102. $ \dfrac{x+3}{x^2+4x+3} $  
-103. $ \dfrac{1}{x+3} + \dfrac{1}{x-3} $  
-104. $ \dfrac{x^2-4}{x^2+2x} $  
-105. $ \dfrac{a}{a+2} - \dfrac{1}{a^2+4a+4} $  
-106. $ \dfrac{x^2+5x+6}{x^2-9} $  
-107. $ \dfrac{1}{x-2} - \dfrac{1}{x+2} $  
-108. $ \dfrac{x^2-9}{x^2+3x} $  
-109. $ \dfrac{3x}{x^2-4} + \dfrac{1}{x+2} $  
-110. $ \dfrac{m^2-n^2}{m^2+2mn+n^2} $  
-
----
-
-## D. Giải phương trình cơ bản (40 bài)  
-
-### D1. Phương trình bậc nhất (10 bài)  
-111. $ 3x+2=8 $  
-112. $ 4x-7=9 $  
-113. $ 2x+5=5x-1 $  
-114. $ 5x-4=3x+6 $  
-115. $ 3(x-2)=12 $  
-116. $ 4(x+1)=16 $  
-117. $ 6x-8=3(x+2) $  
-118. $ 5x+2=2x+11 $  
-119. $ 3(x+4)-5=10 $  
-120. $ 7x-3=3x+13 $  
-
-### D2. Phương trình bậc hai đơn giản (10 bài)  
-121. $ x^2-3x+2=0 $  
-122. $ x^2-8x+15=0 $  
-123. $ x^2+4x+3=0 $  
-124. $ x^2-9=0 $  
-125. $ 3x^2-6x=0 $  
-126. $ x^2-25=0 $  
-127. $ x^2-5x+6=0 $  
-128. $ x^2+6x+9=0 $  
-129. $ x^2-10x+25=0 $  
-130. $ x^2-4=0 $  
-
-### D3. Phương trình có phân thức (10 bài)  
-131. $ \dfrac{x}{x+2}=\dfrac{3}{4} $  
-132. $ \dfrac{3}{x}=\dfrac{2}{5} $  
-133. $ \dfrac{x+2}{x-2}=3 $  
-134. $ \dfrac{2x}{x+1}=1 $  
-135. $ \dfrac{x-3}{x+4}=1 $  
-136. $ \dfrac{3}{x+2}=\dfrac{4}{x-2} $  
-137. $ \dfrac{x+3}{x}=\dfrac{4}{3} $  
-138. $ \dfrac{x}{x-3}=\dfrac{4}{3} $  
-139. $ \dfrac{x+2}{3x}=\dfrac{5}{6} $  
-140. $ \dfrac{3x}{x+4}=1 $  
-
-### D4. Phương trình phân thức nâng cao (10 bài)  
-141. $ \dfrac{2}{x-1} + \dfrac{3}{x+1} = 1 $  
-142. $ \dfrac{x+2}{x-3} - \dfrac{1}{x-3} = 2 $  
-143. $ \dfrac{1}{x} + \dfrac{1}{x+2} = \dfrac{3}{4} $  
-144. $ \dfrac{x}{x+1} + \dfrac{2}{x-1} = 3 $  
-145. $ \dfrac{2x}{x+3} - \dfrac{1}{x-3} = 1 $  
-146. $ \dfrac{x+4}{x^2-16} = \dfrac{1}{x-4} $  
-147. $ \dfrac{x}{x^2-1} + \dfrac{1}{x+1} = 0 $  
-148. $ \dfrac{3}{x+2} + \dfrac{2}{x-2} = 1 $  
-149. $ \dfrac{x^2-4}{x^2+2x} = 1 $  
-150. $ \dfrac{2}{x} + \dfrac{3}{x+5} = 1 $  
+91. $\lim_{n\to+\infty}\frac{6n^2+7n+1}{6n^2+2}$
+92. $\lim_{n\to+\infty}\big(\sqrt{n^2+40n}-n\big)$
+93. $\lim_{n\to+\infty}\frac{2n^2-3n+5}{3n^2+9}$
+94. $\lim_{n\to+\infty}\big(\sqrt{n^2+5n+4}-n\big)$
+95. $\lim_{n\to+\infty}\frac{5n^2+10n+10}{5n^2+9}$
+96. $\lim_{n\to+\infty}\big(\sqrt{n^2+2n+4}-n\big)$
+97. $\lim_{n\to+\infty}\frac{3n^2+9n+9}{4n^2+1}$
+98. $\lim_{n\to+\infty}\big(\sqrt{n^2+44n+121}-n\big)$
+99. $\lim_{n\to+\infty}\frac{n^2+6n+5}{n^2+2}$
+100. $\lim_{n\to+\infty}\big(\sqrt{n^2+29n}-n\big)$
