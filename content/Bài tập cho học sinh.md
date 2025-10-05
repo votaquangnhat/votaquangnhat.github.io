@@ -55,57 +55,56 @@
 49. $$\lim_{n\to+\infty}\frac{\sqrt{n^2+5n+4}-n}{n}$$  
 50. $$\lim_{n\to+\infty}\big(\sqrt{n^2+28n+4}-n\big)$$  
 
-51. $$\lim_{n\to+\infty}\frac{6n+5}{4n-1}$$  
-52. $$\lim_{n\to+\infty}\frac{8n^2+3}{5n-2}$$  
-53. $$\lim_{n\to+\infty}\frac{3n+9}{2n^2+7}$$  
-54. $$\lim_{n\to+\infty}\frac{11n^2+7n}{4n^2+9n+1}$$  
-55. $$\lim_{n\to+\infty}\frac{2n^3+1}{5n^3+2n}$$  
-56. $$\lim_{n\to+\infty}\big(\sqrt{n^2+35n+1}-n\big)$$  
-57. $$\lim_{n\to+\infty}\big(\sqrt{n^2+12n+5}-\sqrt{n^2+7n+3}\big)$$  
-58. $$\lim_{n\to+\infty}\frac{\sqrt{n^2+15n+4}}{2n+7}$$  
-59. $$\lim_{n\to+\infty}\frac{\sqrt{n^2+6n+1}-\sqrt{n^2+2}}{n}$$  
-60. $$\lim_{n\to+\infty}\big(\sqrt{n^2+40n+25}-n\big)$$  
+# Giới hạn tại một điểm
 
-61. $$\lim_{n\to+\infty}\frac{13n-2}{9n+5}$$  
-62. $$\lim_{n\to+\infty}\frac{5n^2+7}{3n-4}$$  
-63. $$\lim_{n\to+\infty}\frac{n+2}{7n^2+3}$$  
-64. $$\lim_{n\to+\infty}\frac{10n^2+11n}{12n^2+7n+1}$$  
-65. $$\lim_{n\to+\infty}\frac{n^3+4n}{3n^3+2}$$  
-66. $$\lim_{n\to+\infty}\big(\sqrt{n^2+50n}-n\big)$$  
-67. $$\lim_{n\to+\infty}\big(\sqrt{n^2+21n+4}-\sqrt{n^2+9n+1}\big)$$  
-68. $$\lim_{n\to+\infty}\frac{\sqrt{n^2+17n}}{8n+3}$$  
-69. $$\lim_{n\to+\infty}\frac{\sqrt{n^2+9n+5}-n}{n}$$  
-70. $$\lim_{n\to+\infty}\big(\sqrt{n^2+45n+9}-n\big)$$  
+1. $\lim_{x \to 2} (3x + 1)$  
+2. $\lim_{x \to -1} (x^2 + 4x + 3)$  
+3. $\lim_{x \to 0} (5x^3 - 2x^2 + x)$  
+4. $\lim_{x \to 1} (x^3 - 2x^2 + x - 1)$  
+5. $\lim_{x \to -3} (x^4 + 3x^3 - 2x)$  
+6. $\lim_{x \to 0} (x^5 - 7x^2 + 3x)$  
+7. $\lim_{x \to 2} (x^3 - 8)$  
+8. $\lim_{x \to 4} (x^2 - 16)$  
+9. $\lim_{x \to -2} (x^3 + 8)$  
+10. $\lim_{x \to 0} (x^2 + 3x^4)$  
+11. $\lim_{x \to 3} \frac{x^2 - 9}{x - 3}$  
+12. $\lim_{x \to -2} \frac{x^3 + 8}{x + 2}$  
+13. $\lim_{x \to 4} \frac{x^2 - 16}{x - 4}$  
+14. $\lim_{x \to 1} \frac{x^3 - 1}{x - 1}$  
+15. $\lim_{x \to -1} \frac{x^2 - 1}{x + 1}$  
+16. $\lim_{x \to 2} \frac{x^2 - 4x + 4}{x - 2}$  
+17. $\lim_{x \to 0} \frac{x^2}{x}$  
+18. $\lim_{x \to -3} \frac{x^3 - 27}{x - 3}$  
+19. $\lim_{x \to 5} \frac{x^2 - 25}{x - 5}$  
+20. $\lim_{x \to -4} \frac{x^2 - 16}{x + 4}$  
+21. $\lim_{x \to 4} \frac{\sqrt{x} - 2}{x - 4}$  
+22. $\lim_{x \to 0} \frac{\sqrt{x + 1} - 1}{x}$  
+23. $\lim_{x \to 9} \frac{\sqrt{x} - 3}{x - 9}$  
+24. $\lim_{x \to 1} \frac{\sqrt{x + 3} - 2}{x - 1}$  
+25. $\lim_{x \to 0} \frac{1 - \sqrt{1 - x}}{x}$  
+26. $\lim_{x \to 0} \frac{\sqrt{1 + x} - 1}{x}$  
+27. $\lim_{x \to 0} \frac{\sqrt{x + 4} - 2}{x}$  
+28. $\lim_{x \to 1} \frac{\sqrt{5x + 4} - 3}{x - 1}$  
+29. $\lim_{x \to 0} \frac{\sqrt{9 + x} - 3}{x}$  
+30. $\lim_{x \to 16} \frac{\sqrt{x} - 4}{x - 16}$  
+31. $\lim_{x \to 0} \frac{x - \sqrt{x^2 + 1}}{x}$  
+32. $\lim_{x \to 2} \frac{x - \sqrt{x + 2}}{x - 2}$  
+33. $\lim_{x \to 0} \frac{x^2 - \sqrt{1 - x}}{x}$  
+34. $\lim_{x \to 1} \frac{\sqrt{x^2 + 3} - 2}{x - 1}$  
+35. $\lim_{x \to 0} \frac{x^2 - \sqrt{1 + x^2}}{x^2}$  
+36. $\lim_{x \to 0} \frac{x - \sqrt{x + 1}}{x}$  
+37. $\lim_{x \to 4} \frac{\sqrt{x + 5} - 3}{x - 4}$  
+38. $\lim_{x \to 9} \frac{x - \sqrt{x^2 - 80}}{x - 9}$  
+39. $\lim_{x \to 0} \frac{\sqrt{1 + 2x} - 1}{x}$  
+40. $\lim_{x \to 1} \frac{x - \sqrt{x}}{x - 1}$  
+41. $\lim_{x \to 0^+} \sqrt{x}$  
+42. $\lim_{x \to 0^-} \sqrt{x^2}$  
+43. $\lim_{x \to 1^-} \sqrt{x - 1}$  
+44. $\lim_{x \to 1^+} \sqrt{x - 1}$  
+45. $\lim_{x \to 5^-} \frac{\sqrt{5 - x}}{x - 5}$  
+46. $\lim_{x \to 5^+} \frac{\sqrt{x - 5}}{x - 5}$  
+47. $\lim_{x \to 3^-} \frac{\sqrt{9 - x^2}}{x - 3}$  
+48. $\lim_{x \to 3^+} \frac{\sqrt{x^2 - 9}}{x - 3}$  
+49. $\lim_{x \to 2^-} \frac{x - \sqrt{4 - x}}{x - 2}$  
+50. $\lim_{x \to 2^+} \frac{\sqrt{x - 2}}{x - 2}$
 
-71. $$\lim_{n\to+\infty}\frac{15n+7}{6n-8}$$  
-72. $$\lim_{n\to+\infty}\frac{12n^2+5}{8n-3}$$  
-73. $$\lim_{n\to+\infty}\frac{4n+1}{9n^2+2}$$  
-74. $$\lim_{n\to+\infty}\frac{13n^2+9n}{5n^2+2n+1}$$  
-75. $$\lim_{n\to+\infty}\frac{4n^3-1}{7n^3+3}$$  
-76. $$\lim_{n\to+\infty}\big(\sqrt{n^2+60n+16}-n\big)$$  
-77. $$\lim_{n\to+\infty}\big(\sqrt{n^2+25n+9}-\sqrt{n^2+11n+1}\big)$$  
-78. $$\lim_{n\to+\infty}\frac{\sqrt{n^2+19n+3}}{9n-2}$$  
-79. $$\lim_{n\to+\infty}\frac{\sqrt{n^2+7n+2}-\sqrt{n^2+4}}{n}$$  
-80. $$\lim_{n\to+\infty}\big(\sqrt{n^2+55n+36}-n\big)$$  
-
-81. $$\lim_{n\to+\infty}\frac{17n-5}{11n+7}$$  
-82. $$\lim_{n\to+\infty}\frac{7n^2+4}{6n-9}$$  
-83. $$\lim_{n\to+\infty}\frac{8n+3}{11n^2+1}$$  
-84. $$\lim_{n\to+\infty}\frac{14n^2+13n}{8n^2+5n+1}$$  
-85. $$\lim_{n\to+\infty}\frac{3n^3+5}{9n^3+7n}$$  
-86. $$\lim_{n\to+\infty}\big(\sqrt{n^2+70n}-n\big)$$  
-87. $$\lim_{n\to+\infty}\big(\sqrt{n^2+30n+1}-\sqrt{n^2+12n+5}\big)$$  
-88. $$\lim_{n\to+\infty}\frac{\sqrt{n^2+21n+7}}{10n+2}$$  
-89. $$\lim_{n\to+\infty}\frac{\sqrt{n^2+10n+1}-n}{n}$$  
-90. $$\lim_{n\to+\infty}\big(\sqrt{n^2+65n+25}-n\big)$$  
-
-91. $$\lim_{n\to+\infty}\frac{19n+9}{13n-11}$$  
-92. $$\lim_{n\to+\infty}\frac{9n^2+11}{7n-6}$$  
-93. $$\lim_{n\to+\infty}\frac{5n+2}{13n^2+7}$$  
-94. $$\lim_{n\to+\infty}\frac{17n^2+15n}{10n^2+3n+1}$$  
-95. $$\lim_{n\to+\infty}\frac{7n^3-3n}{11n^3+5}$$  
-96. $$\lim_{n\to+\infty}\big(\sqrt{n^2+80n+4}-n\big)$$  
-97. $$\lim_{n\to+\infty}\big(\sqrt{n^2+35n+9}-\sqrt{n^2+14n+1}\big)$$  
-98. $$\lim_{n\to+\infty}\frac{\sqrt{n^2+23n+2}}{11n+5}$$  
-99. $$\lim_{n\to+\infty}\frac{\sqrt{n^2+12n+9}-\sqrt{n^2+3}}{n}$$  
-100. $$\lim_{n\to+\infty}\big(\sqrt{n^2+75n+49}-n\big)$$  
