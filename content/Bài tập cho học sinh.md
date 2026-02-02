@@ -1,9 +1,7 @@
 ---
-title: Bài tập cho Bảo Thy
+title: Bài tập cho học sinh
 draft: false
-date: 2025-10-29 15:12:10 +0700
-tags:
-  - comsci
+date: 2025-10-23 15:54:51 +0700
 ---
 
 # VÍ DỤ 1. TÍNH CÁC TÍCH CÓ HƯỚNG
